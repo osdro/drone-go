@@ -1,6 +1,6 @@
 # drone-go
 
-[![Go.dev](https://pkg.go.dev/badge/github.com/osdro/drone-go)](https://pkg.go.dev/github.com/drone/drone-go?tab=doc)
+[![Go.dev](https://pkg.go.dev/badge/github.com/osdro/drone-go)](https://pkg.go.dev/github.com/osdro/drone-go?tab=doc)
 
 ```Go
 package main
